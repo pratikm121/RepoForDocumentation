@@ -1,0 +1,8 @@
+Java design Patterns : https://github.com/iluwatar/java-design-patterns
+Interview Practise : https://github.com/kdn251/interviews
+Java Algorithms : https://github.com/TheAlgorithms/Java
+Real World : https://github.com/gothinkster/realworld
+Awesome Java : https://github.com/akullpp/awesome-java
+Baulding : https://github.com/eugenp/tutorials
+Java 8, 11 tutorials : https://github.com/winterbe/java8-tutorial
+Coding interviews in Java : https://github.com/careercup/CtCI-6th-Edition/tree/master/Java
